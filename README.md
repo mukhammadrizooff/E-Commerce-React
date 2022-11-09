@@ -3,11 +3,10 @@
 
 #  E-Commerce-React
 
-> Prohect description
+> Project description
 
-Mobile Version | Desktop Version
-------------- | -------------
-Comming soon...
+![mobile (1)](https://user-images.githubusercontent.com/63915024/200814195-40a5459f-a31f-44b1-9143-9d1ead6ecce4.png)
+
 
 
 ## Built With
@@ -19,7 +18,7 @@ Comming soon...
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://dev--mukhammadrizooff-humo-shop.netlify.app/)
 
 ## Getting Started
 
