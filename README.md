@@ -3,7 +3,7 @@
 
 #  E-Commerce-React
 
-> Project description.
+> Project description
 
 ![mobile (1)](https://user-images.githubusercontent.com/63915024/200814195-40a5459f-a31f-44b1-9143-9d1ead6ecce4.png)
 
@@ -27,6 +27,7 @@ To get a local copy up and running follow these simple example steps.
 - type `https://github.com/mukhammadrizooff/...`.
 - run "npm install" and then "npm start"
 
+
 ## Author
 
 👤 **Muhammad Rizo**
@@ -41,7 +42,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support.
+## Show your support
 
 Give a ⭐️ if you like this project!
 
